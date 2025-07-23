@@ -1,3 +1,3 @@
-const api_url = `http://localhost:8081`
+const api_url = `https://mern-todo-app-api-five.vercel.app`
 
 export default api_url;
